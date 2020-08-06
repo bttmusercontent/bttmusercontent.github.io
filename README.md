@@ -4,8 +4,8 @@ This is the CDN of BasToTheMax
 
 |   | Folder 1    | Folder 2 | Folder 3  |
 |---|-------------|----------|-----------|
-| / | UserUploads | Kayeet   | 0001\.png |
-| / | UserUploads | Kayeet   | 0002\.png |
-| / | UserUploads | Kayeet   | 0003\.png |
-| /  |             |          |           |
-| / |             |          |           |
+| / | UserUploads | Kayeet   | 0001.png |
+| / | UserUploads | Kayeet   | 0002.png |
+| / | UserUploads | Kayeet   | 0003.png |
+| / | UserUploads | Kayeet   | 0004.png |
+| / | UserUploads | Kayeet   | 0005.png |
