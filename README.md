@@ -1,4 +1,11 @@
 # BTTM user content
 This is the CDN of BasToTheMax
 ## all images:
-[img 0]({{ site.base }}/UserUploads/001/001.png) | UserUploads | 001 | 001 |
+
+|   | Folder 1    | Folder 2 | Folder 3  |
+|---|-------------|----------|-----------|
+| / | UserUploads | Kayeet   | 0001\.png |
+| / | UserUploads | Kayeet   | 0002\.png |
+| / | UserUploads | Kayeet   | 0003\.png |
+| /  |             |          |           |
+| / |             |          |           |
